@@ -6,7 +6,7 @@
 - 🔧 Développement **backend** robuste avec Laravel / PHP
 - 🎨 Interfaces **frontend** modernes avec React, Blade, TailwindCSS, html, css, 
 - 🛠️ Utilisation d'api
-- 🧠 Projets personnels, site vitrine pour une entreprise cybersécurité, site vitrine pour une entreprise dans le domaine de pétrole
+- 🧠 Projets personnels, site vitrine pour une entreprise cybersécurité, site vitrine pour une entreprise dans le domaine de pétrole, et autre....
 
 ## 🛠️ Stack préférée
 `Laravel` • `React` • `Flutter` • `MySQL` • `html` • `css` • `Bootstrap` • `Tailwind`
