@@ -1,9 +1,24 @@
-## Hi JE SUIS rosine dev👋
+# 👩‍💻 Bienvenue sur mon GitHub !
 
+🎯 Je suis **Développeuse Fullstack** passionnée par le code, l'architecture logicielle et la création de solutions numériques qui ont de l'impact.
 
-# 💫 About Me:
-Je travaille sur plusieurs projets<br>
-Développeuse fullstack 🚀
+## 🚀 Ce que je fais :
+- 🔧 Développement **backend** robuste avec Laravel / PHP
+- 🎨 Interfaces **frontend** modernes avec React, Blade, TailwindCSS, html, css, 
+- 🛠️ Utilisation d'api
+- 🧠 Projets personnels, site vitrine pour une entreprise cybersécurité, site vitrine pour une entreprise dans le domaine de pétrole
+
+## 🛠️ Stack préférée
+`Laravel` • `React` • `Flutter` • `MySQL` • `html` • `css` • `Bootstrap` • `Tailwind`
+
+## 📬 Envie de collaborer ?
+Je suis toujours ouverte à de nouveaux défis techniques.  
+📩 Contactez-moi ici ou via [LinkedIn]([https://linkedin.com/in/votre-profil](https://www.linkedin.com/in/rosine-koffi-a9ba55234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) / [email](rose88koffi@gmail.com)
+
+---
+
+> *"Code propre. UI fluide. Résultats concrets."*
+
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -22,7 +37,4 @@ Développeuse fullstack 🚀
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-Je suis developpeuse fullstack 
-j'aide ton entreprise a se faire connaitre 
-creer ton site vitrine 
-et j'offre d'autre service 
+
